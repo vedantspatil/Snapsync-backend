@@ -1,1 +1,0 @@
-# Snapsync-backend
